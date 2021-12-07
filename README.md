@@ -35,7 +35,7 @@
 </p>
  
   
- You can either click each one and download OR click the link to the right to download ALL via .zip file 👉 
+ You can either click each one and download OR click the link to the right to download ALL via .zip file 👉 https://github.com/colorsintern/Concave/blob/main/Concave%20Emotes.zip
   
 <h2>With ❤️ from <a href="https://twitter.com/TheColorsNFT">The Colors</a> community</h2>
 <img src="https://github.com/colorsintern/Concave/blob/main/ColorsXConcaveV1.png">
